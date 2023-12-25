@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.input-title {
+    color: #7b8794;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 510;
+}
+.input-item {
+    width: 75%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+.review-heading {
+    font-size: 22px;
+    color: #2d3a35;
+    font-family: Roboto;
+    font-weight: bold;
+}
